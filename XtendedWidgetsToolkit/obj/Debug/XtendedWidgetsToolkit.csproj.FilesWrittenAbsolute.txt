@@ -1,0 +1,7 @@
+/Users/afour/Desktop/XtendedWidgetsToolkit/XtendedWidgetsToolkit/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/afour/Desktop/XtendedWidgetsToolkit/XtendedWidgetsToolkit/bin/Debug/XtendedWidgetsToolkit.dll.mdb
+/Users/afour/Desktop/XtendedWidgetsToolkit/XtendedWidgetsToolkit/bin/Debug/XtendedWidgetsToolkit.dll
+/Users/afour/Desktop/XtendedWidgetsToolkit/XtendedWidgetsToolkit/obj/Debug/XtendedWidgetsToolkit.dll
+/Users/afour/Desktop/XtendedWidgetsToolkit/XtendedWidgetsToolkit/obj/Debug/XtendedWidgetsToolkit.dll.mdb
+/Users/afour/Desktop/XtendedWidgetsToolkit/XtendedWidgetsToolkit/bin/Debug/Xamarin.Forms.Core.dll
+/Users/afour/Desktop/XtendedWidgetsToolkit/XtendedWidgetsToolkit/bin/Debug/Xamarin.Forms.Xaml.dll
