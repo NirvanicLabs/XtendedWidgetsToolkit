@@ -1,5 +1,5 @@
 # XtendedWidgetsToolkit
-XtendedWidgetsToolkit - Customizing Xamarin Widgets made easy.
+XtendedWidgetsToolkit provides extended xamarin widgets, developed using mix of Xamarin's PCL (Portable Class Library) and platform specific code.
 
 How to use XtendedWidgetsToolkit:
 
@@ -19,4 +19,4 @@ How to use XtendedWidgetsToolkit:
 5. In TestApp.iOS - AppDelegate.cs, Initialize XtendedWidgetsToolkitiOS by adding following line 
 		new Initialzation ().init (); 
 
-Authors - Amrut Purandare,  Amit Limje
+Contributors: Amrit, Amit and Chaitanya
